@@ -1,5 +1,3 @@
-#print("Hello Nelson")
-
 x = 12
 y = 28
 z = x/y
